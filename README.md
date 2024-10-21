@@ -50,5 +50,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com?user=mekadi&theme=dracula&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=512&background=8%2C3B3B3B%2C000000&hide_longest_streak=true)
   
   ![](https://leetcode.card.workers.dev/mkadioglu?theme=dark&font=baloo&extension=null)
+
+  <a href="https://app.daily.dev/mkadioglu"><img src="https://api.daily.dev/devcards/v2/FNUroDqVelc3bsMRGUBnX.png?type=wide&r=y51" width="652" alt="Mehmet Kadioglu's Dev Card"/></a>
   
 </div>
